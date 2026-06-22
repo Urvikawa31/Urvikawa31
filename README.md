@@ -8,7 +8,6 @@
 
 <br/><br/>
 
-
 <!-- ═══════════════════════  SOCIAL & PROFILE BADGES  ═══════════════════════ -->
 [![Profile Views](https://komarev.com/ghpvc/?username=Urvikawa31&label=Profile+Views&color=58a6ff&style=for-the-badge&labelColor=0d1117)](https://github.com/Urvikawa31)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-urvikava31-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/urvikava31)
@@ -31,8 +30,11 @@ class UrviKava:
     def __init__(self):
         self.name            = "Urvi Kava"
         self.current_role    = "Research Intern @ Information Retrieval & Language Processing Lab"
-        self.university      = "Dhirubhai Ambani University (DAU), Gandhinagar, Gujarat
-
+        self.university      = "Dhirubhai Ambani University (DAU), Gandhinagar, Gujarat"
+        self.supervisors     = [
+            "Prof. Thomas Mandl  →  Universität Hildesheim, Germany",
+            "Dr. Sandip Modha    →  DAU Gandhinagar"
+        ]
         self.research_focus  = [
             "🤖  Autonomous LLM Agents & Multi-Agent Systems",
             "🧠  Retrieval-Augmented Generation (RAG) Architecture",
@@ -256,7 +258,8 @@ Dhirubhai Ambani University — Gandhinagar, Gujarat, India<br/>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Urvikawa31&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=FF6B35" alt="Urvi's GitHub Stats"/>
+<!-- ✅ FIX: removed include_all_commits=true — caused "Could not fetch total commits" timeout -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Urvikawa31&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=FF6B35" alt="Urvi's GitHub Stats"/>
 &nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urvikawa31&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
 
@@ -268,18 +271,35 @@ Dhirubhai Ambani University — Gandhinagar, Gujarat, India<br/>
 
 </div>
 
-<!--
-<div align="center"> 
+<div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Urvikawa31&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies"/>
+<!-- ✅ FIX: nord theme + all rank levels — shows trophies for accounts of any size -->
+<img src="https://github-profile-trophy.vercel.app/?username=Urvikawa31&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
 
-</div>!-->
+</div>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Urvikawa31&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B35&area=true&area_color=1a2a4a&hide_border=true&custom_title=Urvi's%20Contribution%20Graph" alt="Contribution Activity Graph"/>
+<!-- ✅ FIX: react-dark theme — reliable, replaces broken github-compact -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Urvikawa31&theme=react-dark&bg_color=0D1117&color=64FFDA&line=64FFDA&point=FF6B35&area=true&area_color=0d2137&hide_border=true" alt="Urvi's Contribution Graph"/>
 
 </div>
+
+<div align="center">
+
+<!-- ✅ Contribution heatmap — no setup needed, works immediately -->
+<img width="100%" src="https://ghchart.rshah.org/64FFDA/Urvikawa31" alt="Urvi's GitHub Contribution Heatmap"/>
+
+</div>
+
+<!-- 🐍 Snake Animation: uncomment AFTER running snake.yml GitHub Action once -->
+<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Urvikawa31/Urvikawa31/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Urvikawa31/Urvikawa31/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Urvikawa31/Urvikawa31/output/github-contribution-grid-snake-dark.svg">
+</picture>
+-->
 
 ---
 
