@@ -266,13 +266,13 @@ Dhirubhai Ambani University — Gandhinagar, Gujarat, India<br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Urvikawa31&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=FF6B35&fire=FF6B35&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=58A6FF&sideNums=C9D1D9" alt="GitHub Streak"/>
 
-</div>
+<!-- </div>
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Urvikawa31&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies"/>
+<!-- <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Urvikawa31&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies"/> -->
 
-</div>
+<!-- </div> --> -->
 
 <div align="center">
 
@@ -340,34 +340,3 @@ Dhirubhai Ambani University — Gandhinagar, Gujarat, India<br/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 </div>
-
-<!--
-════════════════════════════════════════════════════════════════════════
-  🐍  SNAKE ANIMATION SETUP  (One-time GitHub Action)
-════════════════════════════════════════════════════════════════════════
-
-Create file: .github/workflows/snake.yml  with this content:
-
-name: Generate Snake
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-════════════════════════════════════════════════════════════════════════
--->
