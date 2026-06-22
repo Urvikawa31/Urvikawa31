@@ -31,10 +31,7 @@ class UrviKava:
         self.name            = "Urvi Kava"
         self.current_role    = "Research Intern @ Information Retrieval & Language Processing Lab"
         self.university      = "Dhirubhai Ambani University (DAU), Gandhinagar, Gujarat"
-        self.supervisors     = [
-            "Prof. Thomas Mandl  →  Universität Hildesheim, Germany",
-            "Dr. Sandip Modha    →  DAU Gandhinagar"
-        ]
+
         self.research_focus  = [
             "🤖  Autonomous LLM Agents & Multi-Agent Systems",
             "🧠  Retrieval-Augmented Generation (RAG) Architecture",
@@ -94,7 +91,7 @@ me.say_hi()
 <td align="center">
 <b>🏛️ Information Retrieval & Language Processing Lab (IRLP Lab)</b><br/>
 Dhirubhai Ambani University — Gandhinagar, Gujarat, India<br/>
-<sub><i>Supervisors: Prof. Thomas Mandl (Universität Hildesheim, Germany) · Dr. Sandip Modha (DAU)</i></sub>
+<sub><i>Supervisors: Prof. Prasenjit Majmuder (DAU) · Prof. Thomas Mandl (Universität Hildesheim, Germany) · Prof. Sandip Modha (DAU)</i></sub>
 </td>
 </tr>
 </table>
