@@ -1,14 +1,13 @@
 <div align="center">
 
 <!-- ═══════════════════════  ANIMATED HEADER BANNER  ═══════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Urvi%20Kava&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Quant%20Developer&descAlignY=58&descAlign=50&descColor=a8c8ff&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Urvi%20Kava&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20AI-Fintech%20Developer&descAlignY=58&descAlign=50&descColor=a8c8ff&descSize=18"/>
 
 <!-- ═══════════════════════  TYPING SVG ANIMATION  ═══════════════════════ -->
-<a href="https://github.com/Urvikawa31">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=52&lines=🤖+LLM+%26+Agentic+AI+Engineer;🧠+RAG+Systems+Architect+%26+Memory+Designer;📈+AI-Driven+Quantitative+Finance+%7C+FinTech;🔬+NLP+%26+Information+Retrieval+Researcher;🏆+CLEF+2026+%231+TSLA+%7C+%233+BTC+—+International+Leaderboard" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=800&color=64FFDA&center=true&vCenter=true&width=720&lines=Research+Intern+%40+IR+%26+Language+Processing+Lab%2C+DAU+Gandhinagar;CLEF+2026+%E2%80%94+FinMMEval+Task+3+Researcher+%26+Scientific+Reviewer;EdgeQuant+Agent+%E2%80%94+%231+TSLA+%7C+%233+BTC+%C2%B7+International+Leaderboard;4-Tier+RAG+Memory+%C2%B7+Agentic+AI+%C2%B7+LLM+Engineering;Production+FastAPI+%2B+Docker+%2B+HuggingFace+Inference+Pipelines;M.Sc.+Data+Science+%C2%B7+B.Sc.+Mathematics+CGPA+8.99+%C2%B7+MTTS+IIT+Mandi)](https://github.com/Urvikawa31)
 
 <br/><br/>
+
 
 <!-- ═══════════════════════  SOCIAL & PROFILE BADGES  ═══════════════════════ -->
 [![Profile Views](https://komarev.com/ghpvc/?username=Urvikawa31&label=Profile+Views&color=58a6ff&style=for-the-badge&labelColor=0d1117)](https://github.com/Urvikawa31)
