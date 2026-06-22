@@ -32,11 +32,8 @@ class UrviKava:
     def __init__(self):
         self.name            = "Urvi Kava"
         self.current_role    = "Research Intern @ Information Retrieval & Language Processing Lab"
-        self.university      = "Dhirubhai Ambani University (DAU), Gandhinagar, Gujarat"
-        self.supervisors     = [
-            "Prof. Thomas Mandl  →  Universität Hildesheim, Germany",
-            "Dr. Sandip Modha    →  DA-IICT / DAU, Gandhinagar"
-        ]
+        self.university      = "Dhirubhai Ambani University (DAU), Gandhinagar, Gujarat
+
         self.research_focus  = [
             "🤖  Autonomous LLM Agents & Multi-Agent Systems",
             "🧠  Retrieval-Augmented Generation (RAG) Architecture",
