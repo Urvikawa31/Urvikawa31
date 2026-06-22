@@ -266,13 +266,14 @@ Dhirubhai Ambani University — Gandhinagar, Gujarat, India<br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Urvikawa31&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=FF6B35&fire=FF6B35&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=58A6FF&sideNums=C9D1D9" alt="GitHub Streak"/>
 
-<!-- </div>
+</div>
 
-<div align="center">
+<!--
+<div align="center"> 
 
-<!-- <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Urvikawa31&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies"/> -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Urvikawa31&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies"/>
 
-<!-- </div> --> -->
+</div>!-->
 
 <div align="center">
 
