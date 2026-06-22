@@ -280,15 +280,6 @@ Dhirubhai Ambani University — Gandhinagar, Gujarat, India<br/>
 
 </div>
 
-<!-- 🐍 Snake Contribution Animation (requires GitHub Action — see setup note below) -->
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Urvikawa31/Urvikawa31/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Urvikawa31/Urvikawa31/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Urvikawa31/Urvikawa31/output/github-contribution-grid-snake-dark.svg">
-</picture>
-</div>
-
 ---
 
 ## 🎓 Education
